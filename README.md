@@ -5,4 +5,7 @@ Refer to [Wiki Page](https://github.com/apprenticeharper/DeDRM_tools/wiki/Exactl
 
 My special thanks to all those developers who have done the hard work of reverse engineering to provide the initial tools.
 
+Roger Webb
+
+Courtesy of, 
 Apprentice Harper.
